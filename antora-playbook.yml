@@ -1,6 +1,6 @@
 site:
-  title: FIXME Course Title
-  start_page: REPLACEREPONAME::index.adoc
+  title: Deploy Self-Managed Openshift on AWS with STS
+  start_page: ocp-aws-sts-deployment::index.adoc
 
 content:
   sources:

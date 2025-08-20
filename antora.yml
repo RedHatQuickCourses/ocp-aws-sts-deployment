@@ -1,5 +1,5 @@
-name: REPLACEREPONAME
-title: FIXME Course Title
+name: ocp-aws-sts-deployment
+title: Deploy Self-Managed Openshift on AWS with STS
 version: 1
 nav:
 - modules/ROOT/nav.adoc
